@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @Goodasneue
-- 👀 I’m interested in a little bit of everything
-- 🌱 I’m currently learning how to build shopify themes
-- 📫 You can reach me at daniela@goodasneue.studio
